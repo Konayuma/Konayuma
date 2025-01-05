@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Konayuma
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning node.js
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: sepokonayuma@gmail.com
 
