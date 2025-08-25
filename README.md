@@ -1,7 +1,8 @@
                                                                  
                                                                  
                                                                 
-                                                                 
+                           squint to reveal     
+                         
                               ░░░░░░░░                   User: ................... Sepo Konayuma
                          ░▒▒▓▓▓▓▓▓▓▓▓▓▒▒░░               Default Theme: .......... Dark Mode
                        ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░            Battery Health: ......... Always Charging
@@ -19,7 +20,7 @@
                        ░░░░░  ░░░ ░░░░░░░▒▒▒░  ░         Email.Work: ............. sepokonayuma@gmail.com
                        ░▒▒░  ░░░░░  ░░    ░░░            LinkedIn: ............... sepokonayuma
                        ░▓▓▓░░░░▓▓▓▒▒▒▒▒▒▒▒░░▒            Discord: ................ sepokon
-                       ░▒▓▓▓▒░░░░░░░▒░░░▒▒▒▒░                    
+                       ░▒▓▓▓▒░░░░░░░▒░░░▒▒▒▒░                   
                        ░▒▓▒░░░░ ░░  ░░░▓▓░░░                     
                        ░░▓▓▒░░         ░░▒░                      
                         ░░▒▓▒▒▒▒░   ░░░░░░                       
