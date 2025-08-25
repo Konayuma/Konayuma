@@ -2,23 +2,23 @@
                                                                  
                                                                 
                                                                  
-                              ░░░░░░░░                           User: ................... Sepo Konayuma
-                         ░▒▒▓▓▓▓▓▓▓▓▓▓▒▒░░                       Default Theme: .......... Dark Mode
-                       ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░                    Battery Health: ......... Always Charging
-                      ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒░                   Disk Space: ............. 100 GB free
-                     ▒▓▓▓▒      ░░░░▒▒▓▓▓▓▓▓▓▓░                  Power Supply: ........... Art + Curiosity
+                              ░░░░░░░░                   User: ................... Sepo Konayuma
+                         ░▒▒▓▓▓▓▓▓▓▓▓▓▒▒░░               Default Theme: .......... Dark Mode
+                       ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░            Battery Health: ......... Always Charging
+                      ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒░           Disk Space: ............. 100 GB free
+                     ▒▓▓▓▒      ░░░░▒▒▓▓▓▓▓▓▓▓░          Power Supply: ........... Art + Curiosity
                      ░▒░        ░░░░░░░░░░░ ░▒▒                  
                      ░░     ░░░░░░░░░░░░░     ░░                 
                           ░░░░░░░░░░░░░░░░                       
-                         ░░░░░░░     ░░░░░░                      Languages.Real: ......... English, Nyanja, Bemba 
-                         ░░░░░░       ░░░░░                      Languages.Programming: .. Java, C++, C#, Python
+                         ░░░░░░░     ░░░░░░              Languages.Real: ......... English, Nyanja, Bemba 
+                         ░░░░░░       ░░░░░              Languages.Programming: .. Java, C++, C#, Python
                         ░▒▒▒▓▒▒▒░     ░▒▒▒▒▒░                    
                   ░ ░  ░▒▓▒░░░▒▓▓▓▒▒▒▒▓▒▒░░░░░                   
                   ░░░  ░▒▒▒▒▒░░░▒▒░░▓▓░░▒▓▒▒▒░                   
                    ░   ░░░░░░░░▒▒░░░▒▓▒░░▒▒▒░  ░                 
-                       ░░░░░  ░░░ ░░░░░░░▒▒▒░  ░                 Email.Work: ............. sepokonayuma@gmail.com
-                       ░▒▒░  ░░░░░  ░░    ░░░                    LinkedIn: ............... sepokonayuma
-                       ░▓▓▓░░░░▓▓▓▒▒▒▒▒▒▒▒░░▒                    Discord: ................ sepokon
+                       ░░░░░  ░░░ ░░░░░░░▒▒▒░  ░         Email.Work: ............. sepokonayuma@gmail.com
+                       ░▒▒░  ░░░░░  ░░    ░░░            LinkedIn: ............... sepokonayuma
+                       ░▓▓▓░░░░▓▓▓▒▒▒▒▒▒▒▒░░▒            Discord: ................ sepokon
                        ░▒▓▓▓▒░░░░░░░▒░░░▒▒▒▒░                    
                        ░▒▓▒░░░░ ░░  ░░░▓▓░░░                     
                        ░░▓▓▒░░         ░░▒░                      
