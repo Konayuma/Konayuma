@@ -2,20 +2,20 @@
                                                                                        
                                     +;;;;;;;:;;:.:::;;                                 
                                  x+xxxXXX$$$$$$$Xxx+;;;;;                              
-                                +xX$&&&&&&&&&&&&&$$$Xx+;::+                    User: ................... Sepo Konayuma         
-                               Xxx$&&$XXXX$$&&&&&&&&&&$Xx;:;                   Default Theme: .......... Dark Mode         
-                              $XX$$;        .:;;+xxxxxX$&$+:;                  Battery Health: ......... Always Charging        
-                              ;;+.           ..:;;;:.    :x++                  Disk Space: ............. 100 GB free        
-                              . .           ..:;;;;:.      :;                  Power Supply: ........... Art + Curiosity        
+                                +xX$&&&&&&&&&&&&&$$$Xx+;::+          User: ................... Sepo Konayuma         
+                               Xxx$&&$XXXX$$&&&&&&&&&&$Xx;:;         Default Theme: .......... Dark Mode         
+                              $XX$$;        .:;;+xxxxxX$&$+:;        Battery Health: ......... Always Charging        
+                              ;;+.           ..:;;;:.    :x++        Disk Space: ............. 100 GB free        
+                              . .           ..:;;;;:.      :;        Power Supply: ........... Art + Curiosity        
                                      ...........;;;;.                                  
                                     ......       .:::..                                
-                                   .:::::          :::.                        Languages.Real: ......... English, Nyanja, Bemba        
-                                  :xx++xXXx+:.. ..;+xx++;                      Languages.Programming: .. Java, C++, C#, Python        
+                                   .:::::          :::.              Languages.Real: ......... English, Nyanja, Bemba        
+                                  :xx++xXXx+:.. ..;+xx++;            Languages.Programming: .. Java, C++, C#, Python        
                            XX.   .X$$XxxXX$$$x;xXXx;.:+++:                             
                            : ;:  .:;+x;::..x+::+Xx: ;x:;+;  ;X                         
-                             .   .;:...  .+;..:;+xx+xxx+:  .:                  Email.Work: ............. sepokonayuma@gmail.com        
-                               .  ...    .;    .  :  .::   +.                  LinkedIn: ............... sepokonayuma        
-                               . ;XX+..  ++++;.:;;;:. :;;: :                   Discord: ................ sepokon        
+                             .   .;:...  .+;..:;+xx+xxx+:  .:        Email.Work: ............. sepokonayuma@gmail.com        
+                               .  ...    .;    .  :  .::   +.        LinkedIn: ............... sepokonayuma        
+                               . ;XX+..  ++++;.:;;;:. :;;: :         Discord: ................ sepokon        
                                 .;x$$Xx;..;+xXXXXx++++;;; .;                           
                                  :+X+;X$X+;;.  ::;;;xxx+                               
                                  .;xX+..           :;;;.                               
